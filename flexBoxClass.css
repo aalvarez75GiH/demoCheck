@@ -156,3 +156,29 @@ body
     flex: 3;
     text-decoration: underline;
 }
+
+/* @media only screen and (max-width: 600px)
+{
+    .check
+    {
+        font-family: 'Pacifico', cursive;
+        font-size: 120px;
+        color: black;
+        margin-top: 0px;
+        
+    }
+    
+    .footer
+    {
+      /* align-items: flex-start; */
+      /* flex-direction: column;
+    }
+}   */
+
+@media only screen and (max-width:374px){
+    .check
+    {
+        font-size: 10px;
+    }
+   
+  } 
